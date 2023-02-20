@@ -9,12 +9,11 @@
 
 ## **Sobre Mim:**
 * Maikel Grutzmann, 26 anos
-* Desenvolvedor Java
+* Desenvolvedor
 * Atualmente estou estudando Angular e me aprofundando em bancos de dados
 * %{myexperience}
 
 ## **Minhas habilidades:**
-<details>
 Linguagens
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
