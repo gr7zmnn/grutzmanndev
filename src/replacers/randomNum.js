@@ -10,4 +10,4 @@
 // and return the data you will use to replace
 module.exports = function (username) {
   return Math.random() * 1000;
-}
+};
