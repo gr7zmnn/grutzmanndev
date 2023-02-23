@@ -74,7 +74,7 @@
 
 
 ## **Trabalhos recentes:**
-*This section is updated via Javascript.*
+*This section is updated via JavaScript.*
 
 %{recentworks}
 
