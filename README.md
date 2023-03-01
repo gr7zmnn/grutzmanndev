@@ -76,6 +76,9 @@
 ## **Trabalhos recentes:**
 *This section is updated via JavaScript.*
 
+<a href="https://github.com/grutzmanndev/Exercicios-Ts">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Exercicios-Ts&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/Links">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Links&theme=moltack&border_radius=20"/>
   </a>
@@ -84,9 +87,6 @@
   </a>
 <a href="https://github.com/grutzmanndev/Interface-clones">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Interface-clones&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/grutzmanndev">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=grutzmanndev&theme=moltack&border_radius=20"/>
   </a>
 
 <hr>
