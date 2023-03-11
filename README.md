@@ -76,6 +76,9 @@
 ## **Trabalhos recentes:**
 *This section is updated via JavaScript.*
 
+<a href="https://github.com/grutzmanndev/Java">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Java&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/Resume">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Resume&theme=moltack&border_radius=20"/>
   </a>
@@ -84,9 +87,6 @@
   </a>
 <a href="https://github.com/grutzmanndev/Links">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Links&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/ciencia-da-computacao">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=ciencia-da-computacao&theme=moltack&border_radius=20"/>
   </a>
 
 <hr>
