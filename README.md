@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=10C000&center=true&vCenter=true&width=1000&height=50&lines=Ol%C3%A1!+eu+sou+o+Maike%2C;Sou+Desenvolvedor+Front-end%2C;com+foco+em+Front-end.)](https://git.io/typing-svg)</p>
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=grutzmanndev&langs_count=10&show_icons=true&count_private=true&hide_border=true&title_color=10C000&icon_color=10C000&text_color=c9d1d9&bg_color=0d1117" alt="Maikel github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=grutzmanndev&show_icons=true&count_private=true&hide_border=true&title_color=10C000&icon_color=10C000&text_color=c9d1d9&bg_color=0d1117" alt="Maikel github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grutzmanndev&layout=compact&hide_border=true&title_color=10C000&text_color=10C000&bg_color=0d1117" />
 </div>
 
