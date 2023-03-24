@@ -75,6 +75,9 @@
 ## **Trabalhos recentes:**
 *This section is updated via JavaScript.*
 
+<a href="https://github.com/grutzmanndev/Estudos-CSS">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Estudos-CSS&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/algoritimos-Java">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=algoritimos-Java&theme=moltack&border_radius=20"/>
   </a>
@@ -83,9 +86,6 @@
   </a>
 <a href="https://github.com/grutzmanndev/Resume">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Resume&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/Exercicios-Ts">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Exercicios-Ts&theme=moltack&border_radius=20"/>
   </a>
 
 <hr>
