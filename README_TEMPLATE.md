@@ -74,8 +74,6 @@
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<div>https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgrutzmanndev1212%2Fhit-counter</div>
-
 ## **Trabalhos recentes:**
 *This section is updated via JavaScript.*
 
