@@ -83,4 +83,4 @@
 <hr>
 <div align="center">2 Corintios 5:17
 </div>
-<footer>https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgrutzmanndev1212%2Fhit-counter</footer>
+<div>https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgrutzmanndev1212%2Fhit-counter</div>
