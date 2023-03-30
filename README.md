@@ -7,10 +7,10 @@
 * Maikel Grutzmann, 26 years
 * Front-end Developer
 * I'm currently studying Typescript, Java, Angular and deepening my knowledge of Styled Components.
-* 1 Year, 5 Months and 26 Days since I started programming
+* 1 Year, 5 Months and 27 Days since I started programming
 
 ## **My stack:**
-55555
+
 # Languages:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
