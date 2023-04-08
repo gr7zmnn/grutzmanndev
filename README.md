@@ -7,7 +7,7 @@
 * Maikel Grutzmann, 26 years
 * Front-end Developer
 * I'm currently studying Typescript, Java, Angular and deepening my knowledge of Styled Components.
-* 1 Year, 6 Months and 4 Days since I started programming
+* 1 Year, 6 Months and 5 Days since I started programming
 
 ## **My stack:**
 
