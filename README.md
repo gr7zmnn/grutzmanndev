@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30sssssssssssssssssssssssssss&pause=1000&color=10C000&center=true&vCenter=true&width=1000&height=50&lines=Ol%C3%A1!+eu+sou+o+Maike%2C;Sou+Desenvolvedor+Front-end%2C;com+foco+em+Java.)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=10C000&center=true&vCenter=true&width=1000&height=50&lines=Ol%C3%A1!+eu+sou+o+Maike%2C;Sou+Desenvolvedor+Front-end%2C;com+foco+em+Java.)](https://git.io/typing-svg)</p>
 <div align="center">  
   <img width="50%" height="155px" src="https://github-readme-stats.vercel.app/api?username=grutzmanndev&show_icons=true&count_private=true&hide_border=true&title_color=10C000&icon_color=10C000&text_color=c9d1d9&bg_color=0d1117" alt="Maikel github stats" /><img width="40%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grutzmanndev&langs_count=10&count_private=true&layout=compact&hide_border=true&title_color=10C000&text_color=10C000&bg_color=0d1117" />
 </div>
@@ -7,7 +7,7 @@
 * Maikel Grutzmann, 26 years
 * Front-end Developer
 * I'm currently studying Typescript, Java, Angular and deepening my knowledge of Styled Components.
-* 1 Year, 6 Months and 19 Days since I started programming
+* 1 Year, 6 Months and 20 Days since I started programming
 
 ## **My stack:**
 
@@ -77,6 +77,9 @@
 ## **Trabalhos recentes:**
 *This section is updated via JavaScript.*
 
+<a href="https://github.com/grutzmanndev/buzzfeed-quizz">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=buzzfeed-quizz&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/blog-angular">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=blog-angular&theme=moltack&border_radius=20"/>
   </a>
@@ -85,9 +88,6 @@
   </a>
 <a href="https://github.com/grutzmanndev/java4noobs">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=java4noobs&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/public-apis">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=public-apis&theme=moltack&border_radius=20"/>
   </a>
 
 <hr>
