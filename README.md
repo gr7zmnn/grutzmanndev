@@ -7,7 +7,7 @@
 * Maikel Grutzmann, 26 years
 * Front-end Developer
 * I'm currently studying Typescript, Java, Angular and deepening my knowledge of Styled Components.
-* 1 Year, 6 Months and 21 Days since I started programming
+* 1 Year, 6 Months and 22 Days since I started programming
 
 ## **My stack:**
 
@@ -77,6 +77,9 @@
 ## **Trabalhos recentes:**
 *This section is updated via JavaScript.*
 
+<a href="https://github.com/grutzmanndev/SPA-com-Angular">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=SPA-com-Angular&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/Jogos-js">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Jogos-js&theme=moltack&border_radius=20"/>
   </a>
@@ -85,9 +88,6 @@
   </a>
 <a href="https://github.com/grutzmanndev/buzzfeed-quizz">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=buzzfeed-quizz&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/blog-angular">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=blog-angular&theme=moltack&border_radius=20"/>
   </a>
 
 <hr>
