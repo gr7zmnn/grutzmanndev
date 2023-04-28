@@ -64,8 +64,7 @@
     <div style="margin: 0 20px;"></div>
     <img width="70%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grutzmanndev&langs_count=10&count_private=true&layout=compact&hide_border=true&title_color=9F5CC0&text_color=9F5CC0&bg_color=0d1117" />
   </div>
-</div
-
+</div>
 <br>
 
 # Other tools and technologies:
