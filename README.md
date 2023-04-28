@@ -58,7 +58,7 @@
 <br>
 
 # Github stats:
-<div align="center">
+<div align="rigth">
   <div style="display: flex; flex-wrap: nowrap;">
     <img style="height: 155px; width: 70%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=grutzmanndev&show_icons=true&count_private=true&hide_border=true&title_color=9F5CC0&icon_color=9F5CC0&text_color=9F5CC0&bg_color=0d1117" alt="Maikel github stats" />
     <img style="height: 155px; width: 30%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grutzmanndev&langs_count=10&count_private=true&layout=compact&hide_border=true&title_color=9F5CC0&text_color=9F5CC0&bg_color=0d1117" />
