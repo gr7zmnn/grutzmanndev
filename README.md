@@ -50,12 +50,9 @@
 <a href="https://github.com/grutzmanndev/SPA-com-Angular">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=SPA-com-Angular&theme=moltack&border_radius=20"/>
   </a>
-<<<<<<< HEAD
-=======
 <a href="https://github.com/grutzmanndev/Jogos-js">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Jogos-js&theme=moltack&border_radius=20"/>
   </a>
->>>>>>> 3b1cb08 (att README)
 
 <br>
 <br>
