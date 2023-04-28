@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=10C000&center=true&vCenter=true&width=1000&height=50&lines=Ol%C3%A1!+eu+sou+o+Maike%2C;Sou+Desenvolvedor+Front-end%2C;com+foco+em+Java.)](https://git.io/typing-svg)</p>
 <div align="center">  
   <img width="50%" height="155px" src="https://github-readme-stats.vercel.app/api?username=grutzmanndev&show_icons=true&count_private=true&hide_border=true&title_color=10C000&icon_color=10C000&text_color=c9d1d9&bg_color=0d1117" alt="Maikel github stats" /><img width="40%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grutzmanndev&langs_count=10&count_private=true&layout=compact&hide_border=true&title_color=10C000&text_color=10C000&bg_color=0d1117" />
+=======
+
+<div><img src="./imagens/Code typing-bro.svg" min-width="300px" max-width="300px" width="300px" align="right">
+>>>>>>> a6782c1 (teste)
 </div>
 
+<<<<<<< HEAD
 ## **Sobre Mim:**
 * Maikel Grutzmann, 26 years
 * Front-end Developer
@@ -12,6 +18,13 @@
 ## **My stack:**
 
 # Languages:
+=======
+# About me
+
+  I am a Java developer with knowledge in front-end and Angular framework. I am focused, innovative, and committed to delivering quality work within deadlines. I am communicative, work well in teams, and am capable of solving problems quickly and efficiently. I am curious and love to learn new things, always seeking to update and expand my knowledge in software development. I am confident in my ability to contribute to the success of projects and companies, and I am always open to new opportunities and challenges.</div><br>
+  <br>
+  <br>
+>>>>>>> a6782c1 (teste)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,6 +46,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+<<<<<<< HEAD
 # Database:
   
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -66,12 +80,24 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## **Contato:**
+=======
+Redes sociais para contato:
+</p>
+<p align="left">
+>>>>>>> a6782c1 (teste)
 
 <a href="https://www.linkedin.com/in/maikel-grutzmann/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:maike.grutzmann@gmail.com">
+<<<<<<< HEAD
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+=======
+<img alt="gmail"src="https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/grietzmann/">
+<img src="https://img.shields.io/badge/instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+>>>>>>> a6782c1 (teste)
 </a>
 
 ## **Trabalhos recentes:**
