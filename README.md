@@ -39,7 +39,7 @@
 </div>
 
 # **Recent works:**
-*This section is updated via JavaScript.*
+*This section is updated using JavaScript.*
 
 <a href="https://github.com/grutzmanndev/dynamodb">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=dynamodb&theme=moltack&border_radius=20"/>
