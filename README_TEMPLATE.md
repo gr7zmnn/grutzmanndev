@@ -39,7 +39,7 @@
 </div>
 
 # **Recent works:**
-*This section is updated via JavaScript.*
+*This section is updated using JavaScript.*
 
 %{recentworks}
 
