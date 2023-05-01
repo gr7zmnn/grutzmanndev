@@ -41,6 +41,9 @@
 # **Recent works:**
 *This section is updated via JavaScript.*
 
+<a href="https://github.com/grutzmanndev/dynamodb">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=dynamodb&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/E-commerce">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=E-commerce&theme=moltack&border_radius=20"/>
   </a>
@@ -49,9 +52,6 @@
   </a>
 <a href="https://github.com/grutzmanndev/SPA-com-Angular">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=SPA-com-Angular&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/Jogos-js">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Jogos-js&theme=moltack&border_radius=20"/>
   </a>
 
 <br>
