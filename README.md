@@ -41,9 +41,6 @@
 # **Recent works:**
 *This section is updated using JavaScript.*
 
-<a href="https://github.com/grutzmanndev/Codeminers">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Codeminers&theme=moltack&border_radius=20"/>
-  </a>
 <a href="https://github.com/grutzmanndev/Desafios-frontend">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Desafios-frontend&theme=moltack&border_radius=20"/>
   </a>
@@ -52,6 +49,9 @@
   </a>
 <a href="https://github.com/grutzmanndev/E-commerce">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=E-commerce&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/grutzmanndev/Marvel-Blog">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Marvel-Blog&theme=moltack&border_radius=20"/>
   </a>
 
 <br>
