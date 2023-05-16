@@ -41,6 +41,9 @@
 # **Recent works:**
 *This section is updated using JavaScript.*
 
+<a href="https://github.com/grutzmanndev/dash-to-panel">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=dash-to-panel&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/privateGPT">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=privateGPT&theme=moltack&border_radius=20"/>
   </a>
@@ -49,9 +52,6 @@
   </a>
 <a href="https://github.com/grutzmanndev/Desafios-frontend">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=Desafios-frontend&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/dynamodb">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=dynamodb&theme=moltack&border_radius=20"/>
   </a>
 
 <br>
