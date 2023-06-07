@@ -3,7 +3,7 @@
 </div>
 <div>
 
-# About me
+# About me:
 
   I am a Java developer with knowledge in front-end and Angular framework. I am focused, innovative, and committed to delivering quality work within deadlines. I am communicative, work well in teams, and am capable of solving problems quickly and efficiently. I am curious and love to learn new things, always seeking to update and expand my knowledge in software development. I am confident in my ability to contribute to the success of projects and companies, and I am always open to new opportunities and challenges.</div><br>
   <br>
