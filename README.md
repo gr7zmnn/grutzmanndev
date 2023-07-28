@@ -41,11 +41,11 @@
 # **Recent works:**
 *This section is updated using JavaScript.*
 
+<a href="https://github.com/grutzmanndev/MS-DOS">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=MS-DOS&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/meme-do-insta">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=meme-do-insta&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/sistemas-de-pedidos-de-lanches">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=sistemas-de-pedidos-de-lanches&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/grutzmanndev/cv">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=cv&theme=moltack&border_radius=20"/>
