@@ -41,6 +41,9 @@
 # **Recent works:**
 *This section is updated using JavaScript.*
 
+<a href="https://github.com/grutzmanndev/.vincents-canvas">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=.vincents-canvas&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/grutzmanndev/MS-DOS">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=MS-DOS&theme=moltack&border_radius=20"/>
   </a>
@@ -49,9 +52,6 @@
   </a>
 <a href="https://github.com/grutzmanndev/cv">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=cv&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/grutzmanndev/java-no-fedora-38">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=grutzmanndev&repo=java-no-fedora-38&theme=moltack&border_radius=20"/>
   </a>
 
 <br>
